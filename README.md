@@ -1,9 +1,4 @@
 # 📊 RAMESH E-COMMERCE SALES DASHBOARD
-## Dashboard Preview
-
-<p align="center">
-  <img src="dashboard.png" alt="Ramesh E-Commerce Sales Dashboard" width="900">
-</p>
 
 ## 📌 Project Overview
 
@@ -53,8 +48,10 @@ The dashboard includes the following interactive visualizations:
 
 ## 🖼️ Dashboard Preview
 
+## Dashboard Preview
+
 <p align="center">
-  <img src="Screenshot%202026-08-10%20232422.png" alt="Ramesh E-Commerce Sales Dashboard" width="900">
+  <img src="dashboard.png" alt="Ramesh E-Commerce Sales Dashboard" width="900">
 </p>
 
 ---
