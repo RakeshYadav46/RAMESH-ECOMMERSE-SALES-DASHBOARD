@@ -1,69 +1,91 @@
-
-📊 RAMESH E-COMMERCE SALES DASHBOARD
-📌 Project Overview
+# 📊 RAMESH E-COMMERCE SALES DASHBOARD
 ## Dashboard Preview
 
 <p align="center">
   <img src="dashboard.png" alt="Ramesh E-Commerce Sales Dashboard" width="900">
 </p>
 
-Ramesh E-Commerce Sales Dashboard is an interactive Power BI dashboard designed to analyze e-commerce sales performance and provide meaningful business insights.
+## 📌 Project Overview
 
-The dashboard helps users understand sales, profit, quantity, customers, payment methods, categories, states, and sub-categories through interactive visualizations and filters.
+The **Ramesh E-Commerce Sales Dashboard** is an interactive **Power BI dashboard** designed to analyze e-commerce sales performance and generate meaningful business insights.
 
-🎯 Objectives
-Analyze overall sales and profit performance
-Identify top-performing customers and states
-Understand category-wise product demand
-Analyze monthly profit trends
-Compare different payment methods
-Identify profitable sub-categories
-Provide an interactive dashboard for business decision-making
-📊 Key KPIs
-Total Amount: 17K
-Total Profit: 2,695
-Total Quantity: 224
-Average Order Value (AOV): 5,186
-📈 Dashboard Visuals
+The dashboard provides a clear view of key metrics such as **sales, profit, quantity, customers, payment methods, categories, states, and sub-categories**.
 
-The dashboard includes:
+---
 
-💰 Amount by State
-📦 Quantity by Category
-📅 Profit by Month
-👥 Amount by Customer
-💳 Quantity by Payment Mode
-🏆 Profit by Sub-Category
-🔽 Quarter Filter
-🔽 State Filter
-🛠️ Tools & Technologies
-Power BI
-Power Query
-DAX
-Data Cleaning & Transformation
-Data Visualization
-Interactive Filters & Slicers
-🔍 Key Insights
-Clothing contributes the highest share of quantity.
-COD is the most commonly used payment method.
-Bookcases generate the highest profit among the displayed sub-categories.
-Customer-level analysis helps identify high-value customers.
-Monthly profit analysis provides visibility into sales performance trends.
-📂 Dashboard
+## 🎯 Project Objectives
 
-The dashboard provides an interactive view where users can select Quarter and State to dynamically analyze the data.
+- Analyze overall sales and profit performance
+- Identify top-performing customers and states
+- Analyze category-wise product demand
+- Understand customer payment preferences
+- Track monthly profit trends
+- Identify profitable sub-categories
+- Support data-driven business decisions
 
-🚀 Future Improvements
-Add Year and Month slicers
-Add sales growth percentage
-Add profit margin KPI
-Add year-over-year analysis
-Add product-level analysis
-Improve mobile/dashboard responsiveness
-👨‍💻 Author
+---
 
-Rakesh Kumar
-B.Tech CSE – Data Science
-Interested in Data Analytics & Data Engineering
+## 📊 Key Performance Indicators
 
-#PowerBI #DataAnalytics #DataVisualization #Dashboard #DAX #PowerQuery #BusinessIntelligence #DataAnalysis
+| KPI | Value |
+|---|---:|
+| 💰 Total Sales | 17K |
+| 📈 Total Profit | 2,695 |
+| 📦 Total Quantity | 224 |
+| 🛒 Average Order Value | 5,186 |
+
+---
+
+## 📈 Dashboard Features
+
+The dashboard includes the following interactive visualizations:
+
+- **Sales by State**
+- **Quantity by Category**
+- **Profit by Month**
+- **Sales by Customer**
+- **Quantity by Payment Mode**
+- **Profit by Sub-Category**
+- **Quarter Filter**
+- **State Filter**
+
+---
+
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="Screenshot%202026-08-10%20232422.png" alt="Ramesh E-Commerce Sales Dashboard" width="900">
+</p>
+
+---
+
+## 🔍 Key Insights
+
+- **Clothing** contributes the highest share of quantity.
+- **COD** is the most frequently used payment method.
+- **Bookcases** generate the highest profit among the displayed sub-categories.
+- Customer-level analysis helps identify high-value customers.
+- Monthly profit analysis helps understand sales performance trends.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Data Cleaning**
+- **Data Transformation**
+- **Data Modeling**
+- **Data Visualization**
+
+---
+
+## 📂 Project Structure
+
+```text
+RAMESH-ECOMMERCE-SALES-DASHBOARD/
+│
+├── README.md
+├── dash.pbix
+└── Dashboard.png
