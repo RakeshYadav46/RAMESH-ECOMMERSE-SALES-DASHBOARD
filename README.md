@@ -1,6 +1,11 @@
 
 📊 RAMESH E-COMMERCE SALES DASHBOARD
 📌 Project Overview
+## Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" alt="Ramesh E-Commerce Sales Dashboard" width="900">
+</p>
 
 Ramesh E-Commerce Sales Dashboard is an interactive Power BI dashboard designed to analyze e-commerce sales performance and provide meaningful business insights.
 
