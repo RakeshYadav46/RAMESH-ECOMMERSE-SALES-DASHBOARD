@@ -6,7 +6,6 @@ The **Ramesh E-Commerce Sales Dashboard** is an interactive **Power BI dashboard
 
 The dashboard provides a clear view of key metrics such as **sales, profit, quantity, customers, payment methods, categories, states, and sub-categories**.
 
----
 
 ## 🎯 Project Objectives
 
